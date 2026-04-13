@@ -9,11 +9,10 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - MPP
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Policy Researcher
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
