@@ -48,10 +48,10 @@ interests:
 education:
   - degree: MPP Master of Public Policy
     institution: University of California, Riverside
-    dates: 2020-2022
+    start: 2020-2022
   - degree: BA Political Science/International Affiars
     institution: University of California, Riverside
-    dates: 2016-2019
+    start: 2016-2019
 
 experience:
   - role: Senior AI Research Scientist
