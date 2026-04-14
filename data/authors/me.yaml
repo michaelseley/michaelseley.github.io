@@ -15,12 +15,13 @@ status:
 role: Policy Researcher
 bio: |
   Michael Seley is the Policy Director for Fresno City Council President Nelson Esparza and 
-  Principal at Melogold Strategic Group, a public affairs and policy result consulting firm. His
-  work advances strategies to support minority-owned small businesses and local entrepreneurship.
-  Prior to joining the City of Fresno, he led entrepreneurship ecosystem research at the UC Riverside
-  School of Public Policy and contributed to regional initatives inclusing Inland Empire 2030 and the
-  IE-GO Coordinating Council. Michael is passionate about advancing inclusive economic development
-  in California's inland regions.
+  Principal at Melogold Strategic Group, a public affairs and policy research consulting firm. His 
+  research examines regional approaches to economic and community development. Prior to joining the 
+  City of Fresno, he led entrepreneurship ecosystem research at the UC Riverside School of Public 
+  Policy where contributed to regional initatives including Inland Empire 2030 and the IE-GO 
+  Coordinating Council. Michael is passionate about advancing equitable economic development in 
+  California's inland regions by identifying and leveraging shared interests to attract industries
+  that create high-quality jobs.
 
 affiliations:
   - name: City of Fresno/Melogold Strategic Group
@@ -46,23 +47,13 @@ interests:
 
 education:
   - degree: MPP Master of Public Policy
-    institution: University of California, Riverside - School of Public Policy
-    start: 2020-09-01
-    end: 2022-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: University of California, Riverside
+    start: 2020
+    end: 2022
+  - degree: BA Political Science/International Affiars
+    institution: University of California, Riverside
+    start: 2016
+    end: 2019
 
 experience:
   - role: Senior AI Research Scientist
